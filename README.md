@@ -28,3 +28,5 @@ This project is a guided implementation of a neural network trained on a dataset
      generate_names('seed')
      ```
    - Run the cell to generate new superhero names based on the provided seed. Repeat this step with different seeds to explore a variety of generated names.
+
+*This project was completed as a part of guided coursera project https://coursera.org/share/06ef1cd3029f0786974b328713de2cc3*
