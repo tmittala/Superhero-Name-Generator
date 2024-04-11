@@ -4,7 +4,7 @@ This project is a guided implementation of a neural network trained on a dataset
 
 ## Implementation:
 
--- Utilizes Python for programming
+-- Utilizes Python for programming \
 -- TensorFlow for building and training the neural network
 
 **How to Use:**
